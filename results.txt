@@ -1,0 +1,161 @@
+grep: /etc/ModemManager: Is a directory
+grep: /etc/NetworkManager: Is a directory
+grep: /etc/PackageKit: Is a directory
+grep: /etc/UPower: Is a directory
+grep: /etc/X11: Is a directory
+/etc/adduser.conf:# option above will be default behavior for adding new, non-system users
+grep: /etc/alsa: Is a directory
+grep: /etc/alternatives: Is a directory
+grep: /etc/apm: Is a directory
+grep: /etc/apparmor: Is a directory
+grep: /etc/apparmor.d: Is a directory
+grep: /etc/apport: Is a directory
+grep: /etc/apt: Is a directory
+grep: /etc/avahi: Is a directory
+grep: /etc/bash_completion.d: Is a directory
+grep: /etc/binfmt.d: Is a directory
+grep: /etc/bluetooth: Is a directory
+grep: /etc/brlapi.key: Permission denied
+grep: /etc/brltty: Is a directory
+grep: /etc/ca-certificates: Is a directory
+grep: /etc/chatscripts: Permission denied
+grep: /etc/cloud: Is a directory
+grep: /etc/console-setup: Is a directory
+grep: /etc/cracklib: Is a directory
+grep: /etc/cron.d: Is a directory
+grep: /etc/cron.daily: Is a directory
+grep: /etc/cron.hourly: Is a directory
+grep: /etc/cron.monthly: Is a directory
+grep: /etc/cron.weekly: Is a directory
+grep: /etc/cryptsetup-initramfs: Is a directory
+grep: /etc/cups: Is a directory
+grep: /etc/cupshelpers: Is a directory
+grep: /etc/dbus-1: Is a directory
+grep: /etc/dconf: Is a directory
+/etc/debconf.conf:# fails to use it it will not abort.
+grep: /etc/default: Is a directory
+grep: /etc/depmod.d: Is a directory
+grep: /etc/dhcp: Is a directory
+grep: /etc/dictionaries-common: Is a directory
+grep: /etc/dpkg: Is a directory
+grep: /etc/emacs: Is a directory
+grep: /etc/environment.d: Is a directory
+grep: /etc/firefox: Is a directory
+grep: /etc/fonts: Is a directory
+grep: /etc/fwupd: Is a directory
+grep: /etc/gdb: Is a directory
+grep: /etc/gdm3: Is a directory
+grep: /etc/geoclue: Is a directory
+grep: /etc/ghostscript: Is a directory
+grep: /etc/glvnd: Is a directory
+grep: /etc/gnome: Is a directory
+grep: /etc/groff: Is a directory
+/etc/group:sudo:x:27:ubuntu,abo
+/etc/group:abo:x:1001:
+/etc/group-:sudo:x:27:ubuntu,abo
+/etc/group-:abo:x:1001:
+grep: /etc/grub.d: Is a directory
+grep: /etc/gshadow: Permission denied
+grep: /etc/gshadow-: Permission denied
+grep: /etc/gss: Is a directory
+grep: /etc/gtk-2.0: Is a directory
+grep: /etc/gtk-3.0: Is a directory
+/etc/hdparm.conf:## notes about known issues, especially if you have an MD array.
+grep: /etc/hp: Is a directory
+grep: /etc/ifplugd: Is a directory
+grep: /etc/init: Is a directory
+grep: /etc/init.d: Is a directory
+grep: /etc/initramfs-tools: Is a directory
+grep: /etc/insserv.conf.d: Is a directory
+grep: /etc/ipp-usb: Is a directory
+grep: /etc/iproute2: Is a directory
+grep: /etc/iscsi: Is a directory
+grep: /etc/kernel: Is a directory
+grep: /etc/ld.so.conf.d: Is a directory
+grep: /etc/ldap: Is a directory
+grep: /etc/libblockdev: Is a directory
+grep: /etc/libnl-3: Is a directory
+grep: /etc/libpaper.d: Is a directory
+grep: /etc/libreoffice: Is a directory
+grep: /etc/logcheck: Is a directory
+/etc/login.defs:# See #290803 and #298773 for details about how this could become a security
+grep: /etc/logrotate.d: Is a directory
+grep: /etc/lvm: Is a directory
+/etc/manpath.config:# above should normally be), it must be mentioned below. Each line may have
+/etc/manpath.config:# Misc definitions: same as program definitions above.
+grep: /etc/mdadm: Is a directory
+grep: /etc/modprobe.d: Is a directory
+grep: /etc/modules-load.d: Is a directory
+grep: /etc/multipath: Permission denied
+grep: /etc/needrestart: Is a directory
+grep: /etc/netplan: Is a directory
+grep: /etc/network: Is a directory
+grep: /etc/networkd-dispatcher: Is a directory
+grep: /etc/newt: Is a directory
+/etc/nsswitch.conf:# `info libc "Name Service Switch"' for information about this file.
+grep: /etc/openvpn: Is a directory
+grep: /etc/opt: Is a directory
+grep: /etc/pam.d: Is a directory
+/etc/passwd:abo:x:1001:1001:Abylai,1,11,11,11:/home/abo:/bin/bash
+/etc/passwd-:abo:x:1001:1001:Abylai,1,11,11,11:/home/abo:/bin/bash
+grep: /etc/pcmcia: Is a directory
+grep: /etc/perl: Is a directory
+grep: /etc/pki: Is a directory
+grep: /etc/pm: Is a directory
+/etc/pnm2ppa.conf:# alignment test page (see above) tests these.   
+grep: /etc/polkit-1: Is a directory
+grep: /etc/pollinate: Is a directory
+grep: /etc/ppp: Is a directory
+grep: /etc/profile.d: Is a directory
+grep: /etc/pulse: Is a directory
+grep: /etc/python3: Is a directory
+grep: /etc/python3.10: Is a directory
+grep: /etc/qemu: Is a directory
+grep: /etc/rc0.d: Is a directory
+grep: /etc/rc1.d: Is a directory
+grep: /etc/rc2.d: Is a directory
+grep: /etc/rc3.d: Is a directory
+grep: /etc/rc4.d: Is a directory
+grep: /etc/rc5.d: Is a directory
+grep: /etc/rc6.d: Is a directory
+grep: /etc/rcS.d: Is a directory
+/etc/resolv.conf:# Run "resolvectl status" to see details about the uplink DNS servers
+/etc/resolv.conf:# See man:systemd-resolved.service(8) for details about the supported modes of
+grep: /etc/rmt: binary file matches
+grep: /etc/rsyslog.d: Is a directory
+/etc/rygel.conf:#force-downgrade-for=Allegro-Software-WebClient;SEC_HHP;SEC HHP;Mediabolic-IMHTTP/1;TwoPlayer;Reciva;FDSSDP;Portable SDK for UPnP devices;Darwin
+grep: /etc/sane.d: Is a directory
+grep: /etc/security: Is a directory
+grep: /etc/selinux: Is a directory
+grep: /etc/sensors.d: Is a directory
+grep: /etc/sgml: Is a directory
+grep: /etc/shadow: Permission denied
+grep: /etc/shadow-: Permission denied
+grep: /etc/skel: Is a directory
+grep: /etc/snmp: Is a directory
+grep: /etc/speech-dispatcher: Is a directory
+grep: /etc/ssh: Is a directory
+grep: /etc/ssl: Is a directory
+grep: /etc/sssd: Permission denied
+/etc/subgid:abo:165536:65536
+/etc/subuid:abo:165536:65536
+grep: /etc/sudoers: Permission denied
+grep: /etc/sudoers.d: Is a directory
+grep: /etc/sysctl.d: Is a directory
+grep: /etc/systemd: Is a directory
+grep: /etc/terminfo: Is a directory
+grep: /etc/thunderbird: Is a directory
+grep: /etc/tmpfiles.d: Is a directory
+grep: /etc/ubuntu-advantage: Is a directory
+grep: /etc/udev: Is a directory
+grep: /etc/udisks2: Is a directory
+grep: /etc/ufw: Is a directory
+grep: /etc/update-manager: Is a directory
+grep: /etc/update-motd.d: Is a directory
+grep: /etc/update-notifier: Is a directory
+grep: /etc/usb_modeswitch.d: Is a directory
+grep: /etc/vim: Is a directory
+grep: /etc/vulkan: Is a directory
+grep: /etc/wpa_supplicant: Is a directory
+grep: /etc/xdg: Is a directory
+grep: /etc/xml: Is a directory
